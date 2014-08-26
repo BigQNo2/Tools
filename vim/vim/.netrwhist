@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/feihuang/Documents/workspace/Projects'
+let g:netrw_dirhist_2='/Users/feihuang/Documents/workspace/Projects/dissent/test'
+let g:netrw_dirhist_3='/usr/local/qca-2.0.3/examples/aes-cmac'
+let g:netrw_dirhist_4='/Users/feihuang/Documents/workspace/Projects/dissent/test/test.app'
+let g:netrw_dirhist_5='/Users/feihuang/Documents/workspace/Projects/db_design_tools'
